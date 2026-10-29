@@ -10,17 +10,6 @@
 > A C#/.NET implementation of the classic Knight’s Tale problem, inspired by maze-based traversal challenges. As part of the **BCDE222 Best Programming Practices (C#.NET)** course, this project explores how a knight can navigate a constrained board (maze) while visiting valid positions under chess movement rules. It demonstrates algorithmic problem-solving, backtracking strategies, and clean state management in .NET.
 
 ~✦~
-</div>
-
-<detail>
-  <summary>Chess Maze Console App Iteration 1</summary>
-
-  <table>
-    <tr align="center">
-        <td><img width="486" height="209" alt="Iteration 1" src="https://github.com/user-attachments/assets/b599126f-25f8-4b8e-8d44-bd41afaff103" /></td>
-    </tr>
-  </table>
-</detail>
 
 ---
 
