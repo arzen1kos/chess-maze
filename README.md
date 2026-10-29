@@ -11,6 +11,66 @@
 
 ~✦~
 
+</div>
+
+## UI Snapshots
+
+<details>
+  <summary>Iteration 1</summary>
+  <table>
+    <tr align="center">
+      <td>
+        <img height="200" alt="Iteration 1" src="https://github.com/user-attachments/assets/b599126f-25f8-4b8e-8d44-bd41afaff103" />
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary>Iteration 2</summary>
+  <table>
+    <tr align="center">
+      <td>
+        <img height="300" alt="2" src="https://github.com/user-attachments/assets/e50c7689-91d9-4050-9d2b-ee5b9d51fa8c" />
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary>Iteration 3</summary>
+  <table>
+    <tr align="center">
+      <td>
+        <img width="241" height="264" alt="3-mvc-1" src="https://github.com/user-attachments/assets/cf621dc6-b563-46f6-9c60-71f1c52bfb57" />
+      </td>
+      <td>
+        <img width="212" height="264" alt="3-mvc-2" src="https://github.com/user-attachments/assets/cd612f0c-9893-407d-9f85-fa2b8d37a4bc" />
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
+  <summary>Iteration 4</summary>
+  <table>
+    <tr align="center">
+      <td>
+         <img width="320" height="349" alt="4-console-app-1" src="https://github.com/user-attachments/assets/97253b59-051d-452e-a6ac-8fd20bd7f7f6" />
+      </td>
+      <td>
+         <img width="300" height="349" alt="4-console-app-2" src="https://github.com/user-attachments/assets/e8a17607-a451-4b09-bafd-7c6a2e03f601" />
+      </td>
+    </tr>
+    <tr align="center">
+      <td>
+         <img width="350" height="370" alt="4-console-app-3" src="https://github.com/user-attachments/assets/df20a98c-f558-4516-8a4a-683ce3905ba5" />
+      </td>
+      <td>
+         <img width="350" height="370" alt="4-console-app-4" src="https://github.com/user-attachments/assets/80cf22e5-90c0-4831-bbfb-b24203424898" />
+      </td>
+    </tr>    
+  </table>
+</details>
+<br/>
+
 ---
 
 Created by Arsenie — 2024
